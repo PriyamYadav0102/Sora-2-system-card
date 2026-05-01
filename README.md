@@ -1,4 +1,4 @@
-# Sora 2 Physics-Consistency Auxiliary Loss
+# Sora 2 System card
 
 This project implements a small video prediction model in PyTorch and evaluates whether a Physics-Consistency Auxiliary Loss (PCAL) can improve temporal smoothness in predicted frame sequences.
 

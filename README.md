@@ -3,8 +3,7 @@
 **Improving Temporal Dynamics in a Sora 2-Inspired Video Diffusion Model Using Physics-Consistency Auxiliary Loss**
 
 **Module:** CMP030L043 Deep Learning and Generative AI  
-**Student:** PRIYAM VRUJENDRA YADAV  
-**Student ID:** A00074941
+ 
 
 ## Purpose of this artefact
 
